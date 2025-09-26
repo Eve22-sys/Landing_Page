@@ -1,1 +1,1 @@
-Criando uma Landing Page simples, mas objetiva. Para adquirir mais conhecimentos. Sou inicante e ainda tenho um de dificuldade com css.
+Criando uma Landing Page simples, mas objetiva. Para adquirir mais conhecimentos. Sou inicante e ainda tenho um pouco de dificuldade com css tenho certeza que este projeto simples me auxiliara a compreender melhor como css funciona.
