@@ -1,0 +1,1 @@
+Criando uma Landing Page simples, mas objetiva. Para adquirir mais conhecimentos. Sou inicante e ainda tenho um de dificuldade com css.
